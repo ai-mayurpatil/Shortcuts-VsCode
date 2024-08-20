@@ -1,6 +1,8 @@
 # VsCode ShortCuts
 > Daily Useful
-> * `Ctrl + B` = Explorer Open/Close
+> * `Ctrl + B` = Panel Open/Close
+> * `Ctrl + shift + E` = Explorer Open
+> * `Ctrl + shift + G G` = Source Git Panel Open
 > * `Ctrl + J` = Terminal Open/Close
 > * `Ctrl + \` = Spilt Open
 > * `Ctrl + f4` = Spilt Close
