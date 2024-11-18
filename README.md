@@ -1,4 +1,4 @@
-# VsCode ShortCuts.
+# Useful VsCode ShortCuts.
 > Daily Useful
 > * `Ctrl + B` = Panel Open/Close
 > * `Ctrl + shift + E` = Explorer Open
